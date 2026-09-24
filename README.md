@@ -117,7 +117,7 @@ src/
    └─ dataproviders/
 ```
 
-[View Repository →](https://github.com/Jothirupan26)
+[View Repository →](https://github.com/Mathubalan18)
 
 </td>
 <td width="50%" valign="top">
@@ -133,7 +133,7 @@ Regression-ready suite covering the full shopping journey — login, registratio
 
 <br/>
 
-[View Repository →](https://github.com/Jothirupan26)
+[View Repository →](https://github.com/Mathubalan18)
 
 </td>
 </tr>
