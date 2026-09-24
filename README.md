@@ -231,7 +231,7 @@ I'm particularly interested in working with:
 
 <div align="center">
 
-<a href="https://github.com/Jothirupan26">
+<a href="https://github.com/Mathubalan18">
 <img src="https://img.shields.io/badge/GitHub-Jothirupan26-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
