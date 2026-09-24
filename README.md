@@ -117,7 +117,7 @@ src/
    └─ dataproviders/
 ```
 
-[View Repository →](https://github.com/Mathubalan18)
+[View Repository →](https://github.com/Mathubalan18/Bank_Project)
 
 </td>
 <td width="50%" valign="top">
