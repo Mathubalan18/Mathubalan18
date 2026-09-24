@@ -8,8 +8,8 @@
 
 <br>
 
-<a href="https://github.com/Jothirupan26">
-<img src="https://img.shields.io/badge/GitHub-Jothirupan26-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Mathubalan18">
+<img src="https://img.shields.io/badge/GitHub-Mathubalan18-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
