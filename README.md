@@ -184,7 +184,7 @@ flowchart LR
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Jothirupan26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="165"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Mathubalan18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="165"/></td>
 <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jothirupan26&theme=tokyonight&hide_border=true" height="165"/></td>
 </tr>
 </table>
