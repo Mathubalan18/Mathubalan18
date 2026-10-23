@@ -1,222 +1,227 @@
 <div align="center">
 
-# Mathubalan
+<img src="assets/header.svg" width="100%" alt="Mathubalan K - QA Engineer | Manual and Automation Testing. A moonlit castle, a wizard, a boat and floating lanterns."/>
 
-### QA Engineer &nbsp;·&nbsp; Manual &amp; Automation Testing
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=560&lines=Building+reliable+automated+test+suites;Java+%C2%B7+Selenium+%C2%B7+TestNG+%C2%B7+Maven;Quality+is+not+an+act%2C+it's+a+habit." />
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&italic=true&size=22&duration=3200&pause=900&color=FFC857&center=true&vCenter=true&width=720&height=44&lines=Think+like+a+user.;Test+like+an+engineer.;Investigate+like+a+developer.;Automate+what+matters." alt="Think like a user. Test like an engineer. Investigate like a developer. Automate what matters."/></a>
 
-<br/>
+<br>
 
-<a href="https://github.com/Mathubalan18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href=" linkedin.com/in/mathubalan-k-a85b072a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mathubalan1807@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=Jothirupan26&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://github.com/Mathubalan18"><img src="https://img.shields.io/badge/GitHub-Jothirupan26-241b5e?style=for-the-badge&logo=github&logoColor=ffc857"/></a>
+<a href="https://www.linkedin.com/in/jothirupan-d-761926366/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mathubalan1807@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Mathubalan18&style=flat-square&color=ffb347&label=LANTERNS+LIT"/>
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<table align="center" width="100%">
-<tr><td>
+## 🏰 whoami
 
-### About
+<div align="center">
+<img src="assets/terminal.svg" width="820" alt="Terminal: whoami, stack, test run"/>
+</div>
 
-I'm a QA Engineer who pairs manual precision with automation efficiency — validating requirements by hand, then converting the highest-value checks into a stable Selenium/Java suite so regressions get caught before release, not after.
+<br>
 
-```yaml
-role: QA Engineer
-focus: Manual Testing, Selenium Automation
-stack: Java · Selenium WebDriver · TestNG · Maven
-principle: Think like a user. Test like a machine. Investigate like a developer.
-exploring: Framework architecture, CI-integrated test suites
+QA Engineer focused on Manual and Automation Testing. I approach quality from two sides: human thinking to understand requirements, explore applications, find edge cases and report defects, and automation thinking to turn repeatable, high-value scenarios into maintainable **Java + Selenium + TestNG + Maven** suites with clean structure, reusable utilities and meaningful reporting.
+
+<div align="center">
+
+```text
+Think like a user.
+Test like an engineer.
+Investigate like a developer.
+Automate what matters.
 ```
 
-</td></tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### Core Skills
-
 </div>
 
-<table align="center" width="100%">
-<tr>
-<th align="left" width="50%">Manual Testing</th>
-<th align="left" width="50%">Automation Testing</th>
-</tr>
-<tr>
-<td valign="top">
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-- Functional &amp; regression testing
-- Test case / scenario design
-- UI &amp; exploratory testing
-- Bug identification &amp; reporting
-- Requirement analysis
-
-</td>
-<td valign="top">
-
-- Selenium WebDriver (Java)
-- TestNG — assertions, data providers, listeners
-- Maven build &amp; dependency management
-- XPath / CSS locator strategy
-- Test reporting &amp; screenshot capture
-
-</td>
-</tr>
-</table>
+## 🏮 Tech Arsenal
 
 <div align="center">
+<img src="assets/skills.svg" width="100%" alt="Skills: Java, Selenium, TestNG, Maven, SQL, Git, Jira"/>
 
-<br/>
+<br>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-3D3D3D?style=for-the-badge&logo=testng&logoColor=white"/>
-<br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-
 </div>
 
-<br/>
-
-<div align="center">
-
-### Featured Projects
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🏦 ParaBank Automation Suite**
-<br/>
-<sub>Selenium · Java · TestNG · Maven · Extent Reports</sub>
-
-End-to-end coverage of core banking workflows — login, account management, fund transfer, bill payment — built on a modular Page Object Model.
-
-```
-src/
-├─ main/java/
-│  ├─ base/       driver setup
-│  ├─ pages/      page objects
-│  ├─ utils/      helpers
-│  └─ listeners/  reporting hooks
-└─ test/java/
-   ├─ tests/
-   └─ dataproviders/
-```
-
-[View Repository →](https://github.com/Mathubalan18/Bank_Project)
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 E-Commerce Web Automation**
-<br/>
-<sub>Selenium · Java · TestNG · Maven</sub>
-
-Regression-ready suite covering the full shopping journey — login, registration, search, cart, checkout, and UI validation.
-
-`Login` `Registration` `Search` `Cart`
-`Checkout` `UI Validation` `Regression`
-
-<br/>
-
-[View Repository →](https://github.com/Mathubalan18/Selenium_Project)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### Testing Workflow
-
-```mermaid
-flowchart LR
-    A[Requirement] --> B[Test Scenario]
-    B --> C[Test Case Design]
-    C --> D[Manual Execution]
-    D -->|Pass| E[Regression Suite]
-    D -->|Fail| F[Bug Report]
-    F --> G[Fix Verified]
-    G --> E
-    E --> H[Selenium Automation]
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Current Focus
-
-</div>
-
-<table align="center" width="90%">
-<tr><td width="30%">Manual Testing</td><td width="55%">████████████████████</td><td width="15%" align="right">95%</td></tr>
-<tr><td>Selenium Automation</td><td>██████████████████░░</td><td align="right">90%</td></tr>
-<tr><td>Java</td><td>█████████████████░░░</td><td align="right">80%</td></tr>
-<tr><td>TestNG</td><td>█████████████████░░░</td><td align="right">80%</td></tr>
-<tr><td>SQL</td><td>███████████████░░░░░</td><td align="right">70%</td></tr>
-<tr><td>Framework Architecture</td><td>██████████████░░░░░░</td><td align="right">65%</td></tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### GitHub Stats
+<br>
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Mathubalan18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="165"/></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jothirupan26&theme=tokyonight&hide_border=true" height="165"/></td>
+<td width="33%" valign="top">
+
+### 🔍 Manual QA
+- Requirement analysis
+- Test scenarios and test cases
+- Functional testing
+- Regression testing
+- Exploratory testing
+- UI validation
+- Defect identification and reporting
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Automation
+- Selenium WebDriver with Java
+- TestNG, assertions, listeners
+- XPath and CSS locators
+- Data-driven testing
+- Failure screenshots
+- Reusable utilities
+
+</td>
+<td width="33%" valign="top">
+
+### 🧰 QA Engineering
+- Maven projects
+- Page Object Model
+- Test execution and reporting
+- Framework organization
+- Git version control
+- Defect lifecycle
+- Regression suites
+
+</td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jothirupan26&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jothirupan26&theme=tokyo-night&hide_border=true" width="90%"/>
+## 🏰 Featured Projects
 
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/Jothirupan26/Para_Bank"><img src="assets/card-parabank.svg" width="540" alt="ParaBank Automation Framework"/></a>
+</td>
+<td align="center">
+<a href="https://github.com/Jothirupan26/Selenium_Project_ECA"><img src="assets/card-ecommerce.svg" width="540" alt="E-Commerce Automation Suite"/></a>
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
+<details>
+<summary><b>🧱 ParaBank framework architecture (open the castle gates)</b></summary>
+
+```text
+ParaBank Automation
+│
+├── src/main/java
+│   ├── base         → driver and browser setup
+│   ├── pages        → page objects
+│   ├── utils        → reusable utilities
+│   └── listeners    → test execution listeners
+│
+├── src/test/java
+│   ├── tests
+│   └── dataproviders
+│
+├── src/test/resources
+│   ├── config.properties
+│   ├── testdata
+│   └── testng.xml
+│
+└── Reports
+    ├── Extent Reports
+    └── Failure Screenshots
+```
+
+</details>
+
+<details>
+<summary><b>🛒 E-Commerce user journey (the market by the river)</b></summary>
+
+```text
+Registration → Login → Product Search → Product Validation → Cart → Checkout → Regression Validation
+```
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## ⛵ My QA Workflow
+
+<div align="center">
+<img src="assets/pipeline.svg" width="100%" alt="QA pipeline: a boat sails downriver and lights each stage from requirements to report"/>
+</div>
+
+<details>
+<summary><b>🐛 Defect lifecycle (where the wizard's bugs get caught)</b></summary>
+
+```mermaid
+flowchart LR
+    A[Requirements] --> B[Test Scenarios] --> C[Test Cases] --> D[Manual Execution]
+    D -->|PASS| E[Regression Candidate]
+    D -->|FAIL| I[Defect Report]
+    I --> J[Developer Fix] --> K[Retesting]
+    K -->|PASS| E
+    K -->|FAIL| I
+    E --> F[Selenium Automation] --> G[TestNG Execution] --> H[Reports and Evidence]
+```
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🗼 Learning Path
+
+<div align="center">
+<img src="assets/roadmap.svg" width="100%" alt="Learning roadmap: framework design, reporting, SQL, CI/CD"/>
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## ✨ GitHub Activity
 
 <div align="center">
 
-### Open To
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Jothirupan26&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0a0d2e&title_color=ffc857&text_color=efe9ff&icon_color=ffb347&ring_color=ffc857"/>
+<img height="175" src="https://streak-stats.demolab.com/?user=Jothirupan26&hide_border=true&background=0a0d2e&ring=ffc857&fire=ffb347&currStreakNum=ffc857&sideNums=efe9ff&currStreakLabel=ffc857&sideLabels=b69cff&dates=b69cff"/>
 
-**QA Engineer** &nbsp;·&nbsp; **Manual Tester** &nbsp;·&nbsp; **Automation Tester (SDET track)**
+<br>
 
-<br/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathubalan18&layout=compact&hide_border=true&bg_color=0a0d2e&title_color=ffc857&text_color=efe9ff"/>
 
-`Selenium` `Java` `TestNG` `Maven` `SQL` `Manual Testing` `Test Automation`
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jothirupan26/Jothirupan26/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jothirupan26/Jothirupan26/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Jothirupan26/Jothirupan26/output/github-snake.svg" width="95%"/>
+</picture>
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 📫 Send a Lantern
 
 <div align="center">
 
-> _"Don't just verify that it works — find out how it breaks."_
-
-<br/>
-
-![](https://img.shields.io/badge/-Thanks%20for%20visiting%20%E2%80%94%20let's%20connect!-2563EB?style=for-the-badge)
+<a href="https://www.linkedin.com/in/jothirupan-d-761926366/"><img src="https://img.shields.io/badge/LinkedIn-Jothirupan%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jothirupand@gmail.com"><img src="https://img.shields.io/badge/Email-jothirupand%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Jothirupan26"><img src="https://img.shields.io/badge/GitHub-Jothirupan26-241b5e?style=for-the-badge&logo=github&logoColor=ffc857"/></a>
 
 </div>
+
+<img src="assets/footer.svg" width="100%" alt="Quality isn't just finding bugs. It's building confidence in every release."/>
